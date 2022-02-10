@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BackPack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tabla_uno">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_contenedor">a</string>
+    <string name="cuauhtemoc">Cuauhtémoc ("Águila que desciende") nació en 1496. Fue el último Huey Tlatoani de los aztecas. Fue elegido en noviembre de 1520, cuando murió Cuitláhuac, en plena guerra contra los españoles. Inmediatamente, continuó con la organización del ejército mexica que debía hacer frente a la nueva arremetida de los hispanos, quienes se venían preparando en tierras de los tlaxcaltecas. En mayo de 1521, Hernán Cortés inició el sitio de Tenochtitlán con mil españoles y cerca de 100 mil indios aliados. Fueron tres meses de fieros combates en las aguas y puentes del lago Texcoco. En agosto la resistencia de Cuauhtémoc fue menguando por el hambre, la sed y la epidemia de viruela que sufrían sus guerreros. El 13 de agosto de 1521 fue capturado por el capitán García Holguín cuando intentaba escapar en una canoa.
+
+Durante cuatro años Cuauhtémoc estuvo prisionero, y en varias ocasiones fue torturado (le quemaron pies y manos) para que confiese la ubicación de tesoros que habría mandado esconder antes que caiga Tenochtitlan. En 1525, cuando acompañaba a Hernán Cortés en la expedición a las Hibueras (Honduras), un indio llamado Mexicalcingo lo acusó de conspirar contra los españoles. Entonces Cortés mandó que lo ahorcaran. Recién en el cadalso aceptó convertirse al cristianismo, y fue bautizado con el nombre de Hernando de Alvarado Cuauhtémoc. Lo mataron el 28 de febrero de 1525, en Canitzán, en la región de Tabasco.
+</string>
+</resources>
